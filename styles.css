@@ -1,0 +1,36 @@
+body  {
+   color: palevioletred;
+   background: white;
+   margin: 0px;
+   font-family: "Source Code Pro", monospace;
+ } 
+
+ header {
+    border-bottom: solid 2px rgb(red, green, blue);
+padding: 20px;
+font-size: 32px;
+color: rgb(red, green, blue); 
+
+}
+
+section {
+    background: rgb(rgb(251, 0, 255);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin right: 5%;
+}
+
+h1 {
+    font-size: 40px;
+
+}
+
+p {
+    font-size: 20px;
+
+}
